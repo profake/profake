@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cardetor](https://play.google.com/store/apps/details?id=com.adetor.cardetor)
 
-- 🌱 I’m currently learning **Android Jetpack & Flutter**
+- 🌱 I’m currently learning **React**
 
 - 📫 Reach me on: **nasifistiak@gmail.com**
 
