@@ -8,6 +8,7 @@
 - 📫 Reach me on: **nasifistiak@gmail.com**
 
 ### My SA-MP Moonloader/AHK scripts  
+- [UIF Organizer](https://github.com/profake/UIFOrganizer) _Organize PMs, admin action notifications and more._ (WIP)   
 - [UIF Configurator](https://github.com/profake/UIF-Configurator) _Hide labels, signs, vip actors and more._  
 - [Whisper](https://github.com/profake/Whisper) _Automatic whisper when typing._  
 - [ChatFilter](https://github.com/profake/ChatFilter) _Hide certain messages from chat using a customizable filter._  
