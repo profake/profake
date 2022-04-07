@@ -12,6 +12,7 @@
 - [UIF Configurator](https://github.com/profake/UIF-Configurator) _Hide labels, signs, vip actors and more._  
 - [Whisper](https://github.com/profake/Whisper) _Automatic whisper when typing._  
 - [ChatFilter](https://github.com/profake/ChatFilter) _Hide certain messages from chat using a customizable filter._  
+- [FOVChanger](https://github.com/profake/SAMP-Lua-FOV-Changer) _Fork of a FOV changer; adds adjustability._
 - [driftCam](https://github.com/profake/driftCam) _Toggle higher angle vehicle camera._  
 - [DankHotkeys](https://github.com/profake/Nasif-s-Dank-Hotkeys) _Lots of hotkeys._  
 - [VIP Object Control](https://github.com/profake/Macro-for-better-VIP-Object-Control) _VIP object control scheme that makes more sense._  
