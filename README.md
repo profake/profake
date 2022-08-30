@@ -19,7 +19,6 @@
 
 ### Links:
 <p align="left">
-<a href="https://linkedin.com/in/nasif-istiak-a8a90b158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasif-istiak-a8a90b158" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCAhbZJRBJY8Jxq6AepjUfcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucahbzjrbjy8jxq6aepjufcw" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/134340142285586432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nasif#9270" height="30" width="40" /></a>
 </p>
