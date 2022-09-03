@@ -1,11 +1,7 @@
 # Hi, I'm Nasif
-### An Android dev | hobbyist scripter, designer, video editor | SA-MP player :P
-
-- 🔭 I’m currently working on [Cardetor](https://play.google.com/store/apps/details?id=com.adetor.cardetor)
+### An Instructor | Android developer, hobbyist scripter, designer, video editor | SA-MP player :P
 
 - 🌱 I’m currently learning **React**
-
-- 📫 Reach me on: **nasifistiak@gmail.com**
 
 ### My SA-MP Moonloader/AHK scripts  
 - [UIF Organizer](https://github.com/profake/UIFOrganizer) _Organize PMs, admin action notifications and more._ (WIP)   
